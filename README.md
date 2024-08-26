@@ -1,7 +1,4 @@
-ML BASICS
-This is a module on ML basics
-Today is module is ...
-hi hello
-
-
-newbranch
+This is MLBASICS folder consists of programs of python basics as well as the following topics:
+numpy
+pandas
+matplotlib
